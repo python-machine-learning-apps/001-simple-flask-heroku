@@ -4,10 +4,12 @@ You can view the finished app here: https://super-simple-flask-app.herokuapp.com
 
 ## My blog post about deploying to Heroku with Docker:
 * https://austinlasseter.medium.com/deploying-from-sagemaker-studio-lab-using-docker-a062d831da06
+* https://www.analyticsvidhya.com/blog/2021/11/a-code-walk-through-to-deploying-a-container-on-heroku-platform/
 
 
 ## Deploying on Heroku with Docker
 * https://devcenter.heroku.com/categories/deploying-with-docker
+* https://sparkbox.com/foundry/deploying_docker_on_heroku
 * https://towardsdatascience.com/heroku-docker-in-10-minutes-f4329c4fd72f
 * https://medium.com/featurepreneur/how-to-deploy-a-flask-app-on-heroku-part-1-14782c3068bc
 * https://medium.com/featurepreneur/how-to-deploy-docker-container-on-heroku-part-2-eaaaf1027f0b
